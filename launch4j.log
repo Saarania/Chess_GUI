@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	c:\Users\moo\Documents\GitHub\java-projects\Chess\Chess.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	c:\Users\moo\Documents\GitHub\java-projects\Chess\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000_202
+Java max ver:	1.009.000_010
+JRE paths:	c:\Program Files\Java\jre1.8.0_202\
+Check launcher:	c:\Program Files\Java\jre1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (OK)
+Launcher:	c:\Program Files\Java\jre1.8.0_202\bin\javaw.exe
+Launcher args:	-jar "c:\Users\moo\Documents\GitHub\java-projects\Chess\Chess.exe"
+Args length:	66/32768 chars
+Exit code:	0
